@@ -1,0 +1,51 @@
+.container-12a{
+    display: flex;
+    margin-bottom: 40px;
+}
+.a{
+    background-color: lightblue;
+    width: 200px;
+}
+.b{
+    background-color: lightpink;
+    width: 75px;
+}
+
+.container-12b{
+    display: flex;
+    margin-bottom: 40px;
+}
+.c{
+    background-color: lightblue;
+    width: 50px;
+}
+.d{
+    background-color: lightpink;
+    flex: 1;
+}
+.e{
+    background-color: lightblue;
+    width: 75px;
+}
+.container-12c{
+    display: flex;
+    margin-bottom: 40px;
+    justify-content: space-between;
+}
+.f{
+    background-color: lightpink;
+}
+
+
+.container-12d{
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+    border-color: gray;
+    border-style: solid;
+    align-items: center;
+    border-width: 1px;
+}
+.g{
+    background-color: lightpink;
+}

@@ -1,0 +1,17 @@
+.Activity1{
+    width: 300px;
+    border-radius: 15px;
+}
+.Activity2{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    object-position: center
+}
+.Activity3{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 200px;
+}

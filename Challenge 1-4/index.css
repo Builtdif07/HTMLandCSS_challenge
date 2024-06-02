@@ -1,0 +1,29 @@
+input{
+    display: block;
+}
+.name{
+    padding-top: 5px;
+}
+.email{
+    padding-top: 5px;
+}
+.thanks{
+    width: 200px;
+    display: inline-block;
+}
+img{
+    width: 300px;
+}
+.googleimg{
+    display: flex;
+    justify-content: center;
+}
+.googlecontainer{
+    display: flex;
+    justify-content: center;
+}
+.google{
+    width: 600px;
+    height: 50px;
+    border-radius: 100px;
+}

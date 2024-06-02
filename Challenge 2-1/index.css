@@ -1,0 +1,64 @@
+.Flex{
+    display: flex;
+    height: 100px;
+    align-items: center;
+    margin-bottom: 50px;
+
+}
+.lightblue-container{
+    background-color: lightblue;
+    width: 100px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.item1{
+    background-color: black;
+    color: white;
+}
+.lightpink-container{
+    background-color: lightpink;
+    width: 200px;
+    height: 100%;
+    
+}
+
+
+.Flex2{
+    display: flex;
+    width: 300px;
+    height: 100px;
+    align-items: center;
+
+}
+.container1{
+    background-color: lightblue;
+    width: 100px;
+    height: 100%;
+}
+.container2{
+    background-color: lightpink;
+    width: 200px;
+    height: 100%;
+    
+
+}
+.container3{
+    margin: 0px 20px 0px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.row1{
+   
+    background-color: black;
+    color: white;
+}
+.rows-container{
+    margin: 20px 20px 0px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

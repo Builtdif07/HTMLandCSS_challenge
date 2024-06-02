@@ -1,0 +1,74 @@
+.container{
+    display: grid;
+    width: 100%;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    height: 450px;
+    column-gap: 20px;
+    row-gap: 20px;
+}
+.jett{
+    background-color: rgb(234, 244, 248);
+}
+.yoru{
+    background-color: rgb(234, 244, 248);
+}
+.zed{
+    background-color: rgb(234, 244, 248);
+}
+.jett-picture{
+    width: 100%;
+    height: 300px;
+}
+.container2{
+    display: grid;
+    grid-template-columns: 30px 1fr;
+    column-gap: 10px;
+    row-gap: 10px;
+    margin-left: 10px;
+    padding-bottom: 20px;
+    
+}
+.jett-pictures{
+    width: 30px;
+    border-radius: 999px;
+    height: 30px;
+}
+button{
+    background-color: rgb(70, 70, 255);
+    border: none;
+    color: white;
+    height: 50px;
+    width: 180px;
+    font-size: 20px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.mutual{
+    margin: 5px 0px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(68, 69, 69);
+}
+.oliver{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 10px 0 10px 10px;
+}
+@media only screen and (max-width: 800px){
+    .container{
+        display: inline-block;
+    }
+    .jett{
+        margin-bottom: 30px;
+    }
+    .yoru{
+        margin-bottom: 30px;
+    }
+    .zed{
+        margin-bottom: 30px;
+    }
+    .container2{
+        padding-bottom: 20px;
+    }
+    
+}

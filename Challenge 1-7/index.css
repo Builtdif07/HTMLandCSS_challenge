@@ -1,0 +1,42 @@
+div{
+    display: inline-block;
+    vertical-align: top;
+}
+.square{
+    margin-right: 20px;
+    background-color: red;
+    width: 300px;
+    height: 300px;
+}
+.service{
+    margin-right: 20px;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: solid;
+    border-width: thin;
+    border-color: rgb(207, 191, 191);
+    width: 259px;
+    padding: 0px 20px 20px;
+
+}
+.youtube{
+    margin-right: 20px;
+    margin-top: 20px;
+    width: 280px;
+    color: white;
+    background-color: rgb(47, 44, 44);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+.install{
+    font-size: 20px;
+    font-weight: bold;
+}
+.green{
+    margin-right: 20px;
+    margin-top: 20px;
+    width: 300px;
+    height: 300px;
+    background-color: green;
+    border-radius: 500px;
+}

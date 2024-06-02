@@ -1,0 +1,33 @@
+.email{
+    display: block;
+    width: 410px;
+    margin-top: 10px;
+}
+input{
+    height: 40px;
+    border-radius: 5px;
+    border-color: rgb(94, 96, 98);
+   
+}
+input::placeholder{
+    padding: 0px 20px;
+}
+.first{
+    width: 200px;
+}
+.last{
+    width: 200px;
+}
+.sign{
+    margin-top: 10px;
+    height: 40px;
+    width: 415px;
+    background-color: rgb(86, 86, 250);
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+
